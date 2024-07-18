@@ -1,0 +1,5 @@
+Title of work: OpenShift 4.16 Installation Documentation
+Link to work: https://docs.redhat.com/es/documentation/openshift_container_platform/4.16/html/installing/index
+License of the work: CC-BY-SA-3
+Creator names: Red Hat Corporation
+Publication Date: 2024-07-
